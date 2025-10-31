@@ -1,1 +1,1 @@
-# Forming-a-Magic-Square-algo
+# Forming-a-Magic-Square-algo It calculates the minimum cost to turn a given 3×3 grid of numbers into a magic square, where every row, column, and diagonal adds up to the same total (15). The function formingMagicSquare (currently empty) will compare the input grid with all possible 3×3 magic squares and return the smallest total change needed.
